@@ -10,13 +10,17 @@ A design and prototyping app for turning ideas into wireframes, detailed interfa
 
 **Built for macOS today. Targeting macOS and iPhone.**
 
-[Explore the vision](#from-an-idea-to-an-experience) · [Meet Buffalo Agents](../buffalo-agents/README.md) · [Concept preview](#concept-preview)
+[Explore the vision](#from-an-idea-to-an-experience) · [Meet Buffalo Agents](../buffalo-agents/README.md) · [Watch demos](#watch-it-in-action) · [Buffalo Orbit website](https://buffaloorbit.com/en#product-design)
 
 </div>
 
 ![Buffalo Design concept: moving from wireframes to detailed screens and a connected, interactive prototype.](docs/overview/product-overview.svg)
 
 *Product illustration; not an application screenshot.*
+
+![Buffalo Design running with a structured canvas, layer tree, and code panel.](media/app-capture.jpg)
+
+*Capture from the running macOS app; the canvas contains a sample travel-app design.*
 
 ## From an idea to an experience
 
@@ -74,11 +78,21 @@ Use the two products as complementary parts of the journey:
 
 This describes the intended combined workflow. Available tools support design handoffs and app inspection; a fully automatic design-to-production loop is still a product goal.
 
-## Concept preview
+## Watch it in action
+
+[![Buffalo Design canvas, design system, and code video preview.](media/reel.jpg)](https://buffaloorbit.com/products/motion/design-reel.mp4)
+
+[Watch the edited product reel](https://buffaloorbit.com/products/motion/design-reel.mp4), or explore each feature:
+
+| Canvas | Design system | Code inspection |
+| --- | --- | --- |
+| [![Canvas preview](media/canvas.jpg)](https://buffaloorbit.com/products/motion/design-canvas.mp4) | [![Design system preview](media/system.jpg)](https://buffaloorbit.com/products/motion/design-system.mp4) | [![Code inspection preview](media/code.jpg)](https://buffaloorbit.com/products/motion/design-code.mp4) |
+
+[Watch the longer recording of the running macOS editor](media/videos/canvas-full.mp4).
 
 ![Animated Buffalo Design product concept.](docs/overview/product-tour.gif)
 
-*Animated concept preview; it does not run the native app or prove that the roadmap is implemented.*
+*The animation above is a concept illustration, separate from the app recordings.*
 
 ## Status and access
 

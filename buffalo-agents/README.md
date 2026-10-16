@@ -8,13 +8,17 @@ Create and coordinate specialist AI agents across projects, Git worktrees, and p
 
 **Native macOS app · CLI agent teams · Parallel worktrees · App & simulator control**
 
-[Explore the features](#what-you-can-do) · [Meet Buffalo Design](../buffalo-design/README.md) · [Concept preview](#concept-preview)
+[Explore the features](#what-you-can-do) · [Meet Buffalo Design](../buffalo-design/README.md) · [Watch demos](#watch-it-in-action) · [Buffalo Orbit website](https://buffaloorbit.com/en#product-agents)
 
 </div>
 
 ![Buffalo Agents concept: a coordinated team moving from research through design and implementation to verification.](docs/overview/product-overview.svg)
 
 *Product illustration; not an application screenshot.*
+
+![Buffalo Agents running on macOS with a coding-agent session and project sidebar.](media/app-capture.jpg)
+
+*Capture from the running macOS app.*
 
 ## Turn a task into a team effort
 
@@ -73,11 +77,27 @@ Sync skills, agent definitions, rules, hooks, and tool configuration into worktr
 
 This is the intended combined workflow. Handoffs use available design tools, assets, and documentation; a complete automatic design-to-production pipeline is still a product goal.
 
-## Concept preview
+## Watch it in action
+
+[![Buffalo Agents workflow, devices, usage, and Kanban video preview.](media/reel.jpg)](https://buffaloorbit.com/products/motion/agents-reel.mp4)
+
+[Watch the edited product reel](https://buffaloorbit.com/products/motion/agents-reel.mp4). Feature clips from the [Buffalo Orbit website](https://buffaloorbit.com/en):
+
+| Workflow | Devices | Session usage | Kanban board |
+| --- | --- | --- | --- |
+| [![Workflow preview](media/workflow.jpg)](https://buffaloorbit.com/products/motion/agents-workflow.mp4) | [![Device view preview](media/devices.jpg)](https://buffaloorbit.com/products/motion/agents-devices.mp4) | [![Resource usage preview](media/usage.jpg)](https://buffaloorbit.com/products/motion/agents-usage.mp4) | [![Kanban preview](media/kanban.jpg)](https://buffaloorbit.com/products/motion/agents-kanban.mp4) |
+
+Longer product recordings supplied by the team:
+
+- [Agent workflow from start to finish](media/videos/workflow-full.mp4)
+- [Workflow tree](media/videos/workflow-tree.mp4) and [completion](media/videos/workflow-complete.mp4)
+- [SSH session](media/videos/ssh-session.mp4)
+- [Resource usage by session](media/videos/session-usage.mp4)
+- [Web task board](media/videos/web-board.mp4)
 
 ![Animated Buffalo Agents product concept.](docs/overview/product-tour.gif)
 
-*Animated concept preview; it is not a live connection to agents or repositories.*
+*The animation above is a concept illustration, separate from the app recordings.*
 
 ## Status and access
 
